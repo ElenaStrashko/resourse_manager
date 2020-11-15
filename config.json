@@ -1,0 +1,16 @@
+{
+    "ram": 0.7,
+    "cpu": [3.0, 1.0, 2.1, 3.0, 6.0, 4.0, 8.0, 9.0],
+    "mem_gpu": 0.2,
+    "temp_gpu": 50,
+    "temperature": {
+        "Core 0": 20,
+        "Core 1": 20,
+        "Core 2": 20,
+        "Core 3": 20,
+        "Core 4": 20,
+        "Core 5": 20
+    },
+    "logs": "/var/log",
+    "time_for_logging_information": 6
+}
